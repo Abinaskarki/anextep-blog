@@ -1,13 +1,21 @@
 ---
-title: "About me"
+title: "About Me"
 template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+<h3 style="color:#0294DC">Hi, there</h3>
+<span>I am Abinash Karki from Nepal ⛰️🚴‍♂️. I completed my undergrad degree in the United States. With this blog, I want to provide step by step guide for students to apply student visa in the United States from finding a university to getting the visa.</span>
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+**Talking about Personal Stuffs:**
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+<!-- - 👨🏽‍💻 I’m currently working; -->
+- 🌱 I’m currently working on a tutorial series; 
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: I don't know if the egg came first or the chicken;
+- 📫 How to reach me: anextep@gmail.com;
+- 👯 I’m looking to collaborate with other experienced students 🤝;
+<!-- - 🤔 I’m looking for help with Design Pattern 😭; -->
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+
+<img width="100%" height="400px" align="center" alt="About me" src="https://media.giphy.com/media/l4pTii07Gypi3GFPy/giphy.gif" />
