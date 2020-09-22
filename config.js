@@ -6,9 +6,9 @@ module.exports = {
   title: 'Blog by Abinash Karki',
   subtitle: 'Learn the best steps to apply Student Visa in the United States',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'blog-anextep.disqus.com',
   postsPerPage: 4,
-  googleAnalyticsId: '',
+  googleAnalyticsId: 'UA-163803906-1',
   useKatex: false,
   menu: [
     {
@@ -16,11 +16,11 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About',
+      label: 'About me',
       path: '/pages/about'
     },
     {
-      label: 'Contact',
+      label: 'Contact me',
       path: '/pages/contacts'
     }
   ],
