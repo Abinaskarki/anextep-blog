@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://anextep.com/',
   pathPrefix: '/',
   title: 'Blog by Abinash Karki',
   subtitle: 'Learn the best steps to apply Student Visa in the United States',
