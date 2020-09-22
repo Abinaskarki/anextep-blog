@@ -6,7 +6,7 @@ module.exports = {
   title: 'Blog by Abinash Karki',
   subtitle: 'Learn the best steps to apply Student Visa in the United States',
   copyright: '© All rights reserved.',
-  disqusShortname: 'blog-anextep.disqus.com',
+  disqusShortname: 'blog-anextep',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-163803906-1',
   useKatex: false,
