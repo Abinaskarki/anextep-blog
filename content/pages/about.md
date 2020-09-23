@@ -2,8 +2,8 @@
 template: page
 title: About Me
 socialImage: /media/image-2.jpg
-slug: about-me
-draft: true
+slug: about
+draft: false
 ---
 <h3 style="color:#0294DC">Hi, there</h3>
 <span>I am Abinash Karki from Nepal ⛰️🚴‍♂️. I completed my undergrad degree in the United States. With this blog, I want to provide step by step guide for students to apply student visa in the United States from finding a university to getting the visa.</span>
