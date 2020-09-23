@@ -15,7 +15,7 @@ draft: false
 * 🌱 I’m currently working on a tutorial series; 
 * 💬 Ask me about anything, I am happy to help;
 * ⚡️ Fun-Fact: I don't know if the egg came first or the chicken;
-* 📫 How to reach me: abinaskarki1@gmail.com;
+* 📫 How to reach me: anextep@gmail.com;
 * 👯 I’m looking to collaborate with other experienced students 🤝;
 
 <img width="100%" height="400px" align="center" alt="About me" src="https://media.giphy.com/media/l4pTii07Gypi3GFPy/giphy.gif" />
