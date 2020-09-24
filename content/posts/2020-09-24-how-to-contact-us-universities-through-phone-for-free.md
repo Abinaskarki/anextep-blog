@@ -2,7 +2,7 @@
 template: post
 title: How to contact US universities through phone for free?
 slug: how-to-contact-US-universities-through-phone-for-free
-draft: true
+draft: false
 date: 2020-09-24T15:20:14.608Z
 description: "While applying to US universities, you will have a lot of
   questions that need to be answered quickly. We all know calling a phone number
