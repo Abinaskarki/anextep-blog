@@ -9,7 +9,7 @@ description: "While applying to US universities, you will have a lot of
   is always faster than sending an email. In this blog, I will provide tools
   through which you can make a free phone call to any US phone number using the
   internet or mobile application. "
-category: Undergrad, Grad
+category: Undergrad
 tags:
   - F1 Visa
   - International Student
