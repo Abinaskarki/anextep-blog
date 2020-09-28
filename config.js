@@ -29,7 +29,7 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'I am currently working in the United States as an international student.I will be sharing my step by step guide to apply student visa in the United States. Hope you will enjoy it.',
     contacts: {
-      email: 'anextep@gmail.com',
+      email: 'youranextep@gmail.com',
       facebook: '#',
       telegram: '#',
       twitter: '#',
